@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Iván Castro
+# 👋 ¡Hola! Soy Ivan Castro
 - ## 📊 Analista de Datos | Excel · SQL · Power BI · Tableau
 - 🎸 Músico y ex–tripulante de cruceros reconvertido al mundo del análisis
 - Soy Contador Público (UBA, _cum laude_) con experiencia en banca, atención al cliente y entretenimiento a bordo en compañías internacionales como Carnival y Royal Caribbean.
